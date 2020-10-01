@@ -5,7 +5,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <a href="https://www.linkedin.com/in/sunny-bhadani-40b1a8112/">
   <img align="left" alt="Sunny's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.instagram.com/cool_su94/">
   <img align="left" alt="Sunny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
