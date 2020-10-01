@@ -15,9 +15,9 @@
   <img align="left" alt="Sunny's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=gingerdragon7.gingerdragon7)
 
 <br />
-
 
 Hi, I'm [Sunny Bhadani](https://www.linkedin.com/in/sunny-bhadani-40b1a8112/), a Full Web Stack Developer 🚀 an Indian Expat working in Thailand.
 
