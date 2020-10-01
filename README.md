@@ -12,9 +12,9 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 <br />
 
-Hi, I'm [Sunny Bhadani](https://www.linkedin.com/in/sunny-bhadani-40b1a8112/), a Full Web Stack Developer 🚀 an Indian Expat working in Thailand. 
-A tech lover and quick learner!! Always curious to learn about innovations, new and trending technologies! I believe technology empowers us
-to make our lives better, and as such, we have a responsibility to make technology useful, usable, pleasurable, and accessible.
+Hi, I'm [Sunny Bhadani](https://www.linkedin.com/in/sunny-bhadani-40b1a8112/), a Full Web Stack Developer 🚀 an Indian Expat working in Thailand.
+
+I believe technology empowers us to make our lives better, and as such, we have a responsibility to make technology useful, usable, pleasurable, and accessible.
 Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
