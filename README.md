@@ -22,6 +22,7 @@
 Hi, I'm [Sunny Bhadani](https://www.linkedin.com/in/sunny-bhadani-40b1a8112/), a Full Stack Web Developer 🚀 an Indian Expat working in Thailand.
 
 I believe technology empowers us to make our lives better, and as such, we have a responsibility to make technology useful, usable, pleasurable, and accessible.
+
 Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
