@@ -21,7 +21,7 @@
 
 Hi, I'm [Sunny Bhadani](https://www.linkedin.com/in/sunny-bhadani-40b1a8112/), a Full Stack Web Developer 🚀 an Indian Expat working in Thailand.
 
-I believe technology empowers us to make our lives better, and as such, we have a responsibility to make technology useful, usable, pleasurable, and accessible.
+I believe technology empowers us to make our lives better, and we have a responsibility to make technology useful, usable, pleasurable, and accessible.
 
 Beside's programming, I enjoy eating food and traveling.
 
@@ -51,7 +51,8 @@ Beside's programming, I enjoy eating food and traveling.
 <!--START_SECTION:waka-->
 ```text
 Node.js++          2 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.53 % 
-React.js       2 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   38.82 % 
+React.js       1 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   28.82 % 
+React Native    1 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   28.82 % 
 JavaScript   31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 Markdown     20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 Git Config   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
