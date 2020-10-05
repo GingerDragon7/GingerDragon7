@@ -59,16 +59,6 @@ Git Config   13 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  4,410 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 15 tasks this week           
-✅  Completed 263 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 
