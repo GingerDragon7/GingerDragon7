@@ -19,7 +19,7 @@
 
 <br />
 
-Hello, I'm [Sunny Bhadani](https://www.linkedin.com/in/sunny-bhadani-40b1a8112/), a Full Stack Web Developer 🚀 an Indian Expat working in Thailand.
+Hello, I'm [Sunny Bhadani](https://www.linkedin.com/in/sunny-bhadani-40b1a8112/), a Full Stack Web Developer 🚀 an Indian Techie.
 
 I believe technology empowers us to make our lives better, and we have a responsibility to make technology useful, usable, pleasurable, and accessible.
 
