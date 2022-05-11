@@ -30,7 +30,7 @@ Beside's programming, I enjoy eating food and traveling.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Fully fledged [Web 3.0 Project](https://github.com/GingerDragon7/MetaCrypt) :wink:;
-- 🌱 I’m currently learning Smart Contracts and Solidity; 
+- 🌱 I’m currently learning Next.js,Server Side Rendering and Redux-React.JS; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@sunnybhadani](https://www.linkedin.com/in/sunny-bhadani-40b1a8112/);
 - 📝[Resume](https://drive.google.com/file/d/1F3fYvIKy9HhfG9WLulQ3KHy8vpVuVaVJ/view?usp=sharing)
